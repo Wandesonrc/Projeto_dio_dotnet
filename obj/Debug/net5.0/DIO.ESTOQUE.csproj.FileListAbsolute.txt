@@ -1,0 +1,16 @@
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\bin\Debug\net5.0\DIO.ESTOQUE.exe
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\bin\Debug\net5.0\DIO.ESTOQUE.deps.json
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\bin\Debug\net5.0\DIO.ESTOQUE.runtimeconfig.json
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\bin\Debug\net5.0\DIO.ESTOQUE.runtimeconfig.dev.json
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\bin\Debug\net5.0\DIO.ESTOQUE.dll
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\bin\Debug\net5.0\ref\DIO.ESTOQUE.dll
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\bin\Debug\net5.0\DIO.ESTOQUE.pdb
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\obj\Debug\net5.0\DIO.ESTOQUE.csproj.AssemblyReference.cache
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\obj\Debug\net5.0\DIO.ESTOQUE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\obj\Debug\net5.0\DIO.ESTOQUE.AssemblyInfoInputs.cache
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\obj\Debug\net5.0\DIO.ESTOQUE.AssemblyInfo.cs
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\obj\Debug\net5.0\DIO.ESTOQUE.csproj.CoreCompileInputs.cache
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\obj\Debug\net5.0\DIO.ESTOQUE.dll
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\obj\Debug\net5.0\ref\DIO.ESTOQUE.dll
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\obj\Debug\net5.0\DIO.ESTOQUE.pdb
+C:\Users\Sonia e Valfrido\DIO.ESTOQUE\obj\Debug\net5.0\DIO.ESTOQUE.genruntimeconfig.cache
