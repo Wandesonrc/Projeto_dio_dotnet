@@ -4,8 +4,11 @@ namespace DIO.ESTOQUE
 {
 	public enum Categoria
 	{
-		Refeicao = 1,
-		Sobremesa = 2
+		Principal = 1,
+		Aperitivo = 2,
+		Massa = 3,
+		Salada = 4,
+		Sobremesa = 5
 		
 	}
 }
